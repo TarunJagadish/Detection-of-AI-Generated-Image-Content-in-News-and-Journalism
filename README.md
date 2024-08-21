@@ -1,10 +1,10 @@
-# Detection of AI-Generated Image Content in News
+# Detection of AI-Generated Image Content in News and Journalism
 
 ## Project Overview
 
-This project focuses on detecting AI-generated image content in news articles, aiming to discern between images that are artificially generated and those that are authentic. This is important given the rise of synthetic media and deepfakes, which can distort public perception and trust in media.
+This project focuses on detecting AI-generated image content in news articles, aiming to discern between artificially generated and authentic images. This is important given the rise of synthetic media and deepfakes, which can distort public perception and trust in media.
 
-The core methodology used in this project is a combination of computer vision techniques and machine learning models that were developed and tested on a dataset of both AI-generated and real images. The ultimate goal is to build a reliable classification system that can assist in the automated detection of AI-generated images within the context of journalism.
+The core methodology used in this project combines computer vision techniques and machine learning models that were developed and tested on a dataset of both AI-generated and real images. The ultimate goal is to build a reliable classification system that can assist in the automated detection of AI-generated images within the context of journalism.
 
 ## Features
 
@@ -43,7 +43,7 @@ The detection model is based on deep learning architectures such as CNNs, which 
 
 ## Results
 
-The model achieved promising results on the dataset with high classification accuracy. Detailed performance metrics, as well as visualizations of the classification results, can be found in the Jupyter notebook.
+The model achieved promising results on the dataset with high classification accuracy. Detailed performance metrics, as well as visualizations of the classification results, can be found in the Jupyter Notebook.
 
 ## Contributing
 
